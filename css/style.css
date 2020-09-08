@@ -3096,15 +3096,25 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
     padding-top: 20px;
 }
 
-Updating 7d220f6..bb73c64
-Fast-forward
- img/students/doc_brown_index_profile.jpg    | Bin 0 -> 32589 bytes
- img/students/student_name_background.jpg    | Bin 72485 -> 0 bytes
- img/students/student_name_index_profile.jpg | Bin 17565 -> 0 bytes
- img/students/student_name_profile.jpg       | Bin 12632 -> 0 bytes
- index.html                                  |  23 ++++++++++++++++++++++-
- 5 files changed, 22 insertions(+), 1 deletion(-)
- create mode 100644 img/students/doc_brown_index_profile.jpg
- delete mode 100644 img/students/student_name_background.jpg
- delete mode 100644 img/students/student_name_index_profile.jpg
- delete mode 100644 img/students/student_name_profile.jpg
+<!-- Begin MARTY MCFLY -->
+<li class="home-blog-post">
+ <div class="blog-thumb">
+   <a href="students/marty_mcfly.html">
+     <img width="304" height="304" class="prof-image" src="img/students/marty_mcfly_index_profile.jpg" class="attachment-blog-thumb wp-post-image" alt="doc brown">
+   </a>
+ </div>
+
+... (MORE CODE) ...
+
+</li>
+<!-- End MARTY MCFLY -->
+
+<!-- Begin DOC BROWN -->
+<li class="home-blog-post">
+ <div class="blog-thumb">
+   <a href="students/doc_brown.html">
+     <img width="304" height="304" class="prof-image" src="img/students/doc_brown_index_profile.jpg" class="attachment-blog-thumb wp-post-image" alt="doc brown">
+   </a>
+ </div>
+
+... (MORE CODE) ...
